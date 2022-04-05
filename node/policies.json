@@ -6,7 +6,7 @@
         "actions": ["get"],
         "effect": "allow",
         "resources": [
-          "vrn:vtex.policies-examples-2:{{region}}:{{account}}:{{workspace}}:/_v/test-policies-route"
+          "vrn:vtex.policies-example-2:{{region}}:{{account}}:{{workspace}}:/_v/test-policies-route"
         ]
       }
     ]
