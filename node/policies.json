@@ -1,0 +1,14 @@
+[
+  {
+    "name": "test-policies",
+    "statements": [
+      {
+        "actions": ["get"],
+        "effect": "allow",
+        "resources": [
+          "vrn:vtex.policies-examples-2:{{region}}:{{account}}:{{workspace}}:/_v/test-policies-route"
+        ]
+      }
+    ]
+  }
+]
