@@ -1,6 +1,6 @@
 [
   {
-    "name": "test-policies",
+    "name": "constructor-policie",
     "statements": [
       {
         "actions": ["get"],

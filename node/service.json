@@ -8,7 +8,7 @@
   "routes": {
     "testPolicie": {
       "path": "/_v/test-policies-route",
-      "public": true
+      "public": false
     }
   }
 }
