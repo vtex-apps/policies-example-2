@@ -1,7 +1,7 @@
 {
   "name": "policies-example-2",
   "vendor": "vtex",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "title": "Service Example",
   "description": "Reference app for VTEX IO Services",
   "mustUpdateAt": "2018-01-04",
@@ -33,7 +33,7 @@
       "name": "outbound-access",
       "attrs": {
         "host": "ergast.com",
-        "path": "/api/f1/2021/*"
+        "path": "/api/f1/2020/*"
       }
     }
   ],

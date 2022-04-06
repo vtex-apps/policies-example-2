@@ -4,7 +4,7 @@ import { ExternalClient } from '@vtex/api'
 
 export class Formula1 extends ExternalClient {
   constructor(ctx: IOContext, options?: InstanceOptions) {
-    super('http://ergast.com/api/f1/2021', ctx, {
+    super('http://ergast.com/api/f1/2020', ctx, {
       ...options,
       headers: {
         'X-Vtex-Use-Https': 'false',
